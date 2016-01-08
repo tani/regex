@@ -1,0 +1,15 @@
+data/src/core.lisp.i
+data/t/test.bash.i
+data/src/parser.lisp.i
+data/core.lisp.i
+data/license-lgpl.txt.i
+data/t/glep.lisp.i
+data/.hgignore.i
+data/regex.lisp.i
+data/regex.asd.i
+data/parser.lisp.i
+data/grep.lisp.i
+data/license-llgpl.txt.i
+data/src/regex.lisp.i
+data/t/grep.lisp.i
+data/README.md.i
