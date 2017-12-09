@@ -1,6 +1,6 @@
 # example repository config (see "hg help config" for more info)
 [paths]
-default = ssh://hg@bitbucket.org/ta2gch/regex
+default = ssh://hg@bitbucket.org/asciian/regex
 
 # path aliases to other clones of this repo in URLs or filesystem paths
 # (see "hg help config.paths" for more info)
