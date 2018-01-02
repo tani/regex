@@ -30,6 +30,12 @@ REGEX supports following character classes
 - `[:digit:]` is expanded to `[0-9]`
 - `[:xdigit:]` is expanded to `[0-9A-Fa-f]`
 
+## Installation
+
+```sh
+$ ros install asciian/regex
+```
+
 ## Benchmarks
 
 vs cl-ppcre
